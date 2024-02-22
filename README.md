@@ -3,6 +3,6 @@ This repo holds the code, wiring and PCB files to build a Arduino Buzz wire game
 
 **Note:**
 The code relies on following library's:  
-u8g2 (https://www.arduino.cc/reference/en/libraries/u8g2/)  Big thanks to Oli Kraus for developing and sharing this library!
+u8g2 (https://www.arduino.cc/reference/en/libraries/u8g2/)  Big thanks to Oli Kraus for developing and sharing this library!  
 LedControl (https://www.arduino.cc/reference/en/libraries/ledcontrol/)  
 EEPROM (https://docs.arduino.cc/learn/built-in-libraries/eeprom/)  
