@@ -4,7 +4,7 @@
 //    Note that name must be 8 chars and time given in milliseconds.
 //
 // Usage:
-//    Simple uplode this code to your board, and it will run and write EEPROM. Then go and upload the main Buzz Wire code.
+//    Simply uplode this code to your board, and it will run and write EEPROM. Then go and upload the main Buzz Wire code.
 //
 // Author: 
 //    The Skjegg (Aka Torbjørn Skjeggestad) 22/02/2024
