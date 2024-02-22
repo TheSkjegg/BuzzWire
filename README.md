@@ -6,3 +6,5 @@ The code relies on following library's:
 u8g2 (https://www.arduino.cc/reference/en/libraries/u8g2/)  Big thanks to Oli Kraus for developing and sharing this library!  
 LedControl (https://www.arduino.cc/reference/en/libraries/ledcontrol/)  
 EEPROM (https://docs.arduino.cc/learn/built-in-libraries/eeprom/)  
+
+Remember to upload the ResetEEPROM code first to initialize the high score list, secondly you upload the main Buzz Wire code. Game on!
