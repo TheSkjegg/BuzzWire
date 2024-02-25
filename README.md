@@ -14,6 +14,7 @@ Follwing parts are required:
 10. Battery (I used 2x 3xAA battery holders as seen in the video)
 11. Power switch
 12. PCB, as defined by gerber files. You could also use a prototyping board for this, as circuit is very simple
+13. 3D printed parts, as shared here: https://www.printables.com/model/774638-buzz-wire-game-with-timer-and-high-score/files
 
 I recommend to keep the copper "track" a bit easy, as this makes it more fun to compete on time. 
 I think the track used in the video was a bit too hard.
